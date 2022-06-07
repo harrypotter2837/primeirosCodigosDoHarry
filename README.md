@@ -23,3 +23,11 @@ git log
 ### Deletar branch:
 - localmente: git branch -d <branch>
 - remotamente: git push origin --delete <branch>
+
+### Exemplo de tabela no Markdown
+
+coluna 1 | coluna 2 | coluna 3
+-------- | -------- | --------
+1        | 2        | 3
+4        | 5        | 6
+7        | 8        | 9
